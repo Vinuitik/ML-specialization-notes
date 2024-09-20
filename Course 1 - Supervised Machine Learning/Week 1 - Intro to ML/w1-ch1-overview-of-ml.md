@@ -1,5 +1,5 @@
 # Week 1 - Intro to Machine Learning
-**Learning Objectives:**
+**Learning Objective:**
 - Define machine learning
 - Define supervised learning
 - Define unsupervised learning
